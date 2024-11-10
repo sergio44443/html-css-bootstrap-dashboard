@@ -7,3 +7,18 @@
 img {
   width: 60px;
 }
+.dm-duck{
+  width: 60px;
+} 
+
+@media (max-width:991px){
+  #offcanvasExample{
+    width: 100%;
+  }
+}
+
+@media (min-width:992px){
+  #offcanvasExample{
+    width: 50%;
+  }
+}
